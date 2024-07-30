@@ -32,16 +32,3 @@ Explain the concept of reducer in React.
 What is the purpose of the `useReducer()` hook?
 How do you optimize performance in React?
 How do you handle code splitting in React?
-
-
-
-Advanced Questions
-
-    What is server-side rendering (SSR) in React?
-    How do you use Redux with React?
-    What are higher-order components (HOC)?
-    How do you handle authentication in a React application?
-    What is the difference between useCallback and useMemo hooks?
-    How do you handle error boundaries in React?
-    What are React portals?
-    How do you implement code splitting in a React application?
