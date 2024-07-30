@@ -26,7 +26,7 @@ Explain the Virtual DOM in React.?</li>
 <li>
  Differentiate between class components and functional components ?</li>
 
-<ol>
+</ol>
     
 
 <li>
