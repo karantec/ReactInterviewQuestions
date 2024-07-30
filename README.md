@@ -25,14 +25,15 @@ Explain the Virtual DOM in React.?
 
 Intermediate Questions
 
-    What is the context API in React?
-    How do you manage state in a React application?
-    What are hooks in React?
-    How do you use the useState and useEffect hooks?
-    What is the difference between controlled and uncontrolled components?
-    How do you optimize performance in a React application?
-    What is React Router, and how do you use it?
-    How do you handle forms in React?
+How do you define custom hooks in React?
+Explain the concept of context in React.
+How do you create context in React?
+Explain the concept of reducer in React.
+What is the purpose of the `useReducer()` hook?
+How do you optimize performance in React?
+How do you handle code splitting in React?
+
+
 
 Advanced Questions
 
