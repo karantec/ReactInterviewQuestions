@@ -13,14 +13,15 @@ Table of Contents
 React is a popular JavaScript library for building user interfaces. This repository is designed to help developers prepare for React interviews by providing a wide range of questions and answers, from basic concepts to advanced topics.
 Basic Questions
 
-    What is React?
-    What are the main features of React?
-    What is JSX?
-    What is the difference between state and props in React?
-    How do you create a React component?
-    What are the lifecycle methods of a React component?
-    What is the virtual DOM?
-    How does React handle events?
+What is React?
+Explain the Virtual DOM in React.?
+ What is JSX in React?
+ How does React handle data binding?
+ What are components in React?
+ Differentiate between class components and functional components ?
+
+
+
 
 Intermediate Questions
 
